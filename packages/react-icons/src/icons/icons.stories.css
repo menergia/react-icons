@@ -1,0 +1,31 @@
+button {
+  all: unset;
+}
+
+.Root {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.Icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+.Icon:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.TooltipContent {
+  border-radius: 4px;
+  padding: 4px 8px;
+  font-size: 12px;
+  color: white;
+  background-color: #0088c9;
+}

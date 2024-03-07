@@ -19,16 +19,29 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "scripts": {
+    "build": "tsup",
+    "type-check": "tsc --noEmit",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
   },
   "peerDependencies": {
     "react": ">=18.0.0",
     "react-dom": ">=18.0.0"
   },
   "devDependencies": {
+    "@radix-ui/react-tooltip": "1.0.7",
+    "@storybook/addon-essentials": "7.6.17",
+    "@storybook/addon-interactions": "7.6.17",
+    "@storybook/addon-links": "7.6.17",
+    "@storybook/blocks": "7.6.17",
+    "@storybook/react": "7.6.17",
+    "@storybook/react-vite": "7.6.17",
     "@types/react": "18.2.64",
     "@types/react-dom": "18.2.21",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "storybook": "7.6.17",
+    "tsup": "8.0.2",
     "typescript": "5.4.2"
   }
 }
