@@ -15,6 +15,7 @@
     "url": "https://github.com/menergia/react-icons.git"
   },
   "scripts": {
+    "changeset": "changeset",
     "ci:publish": "changeset publish"
   },
   "devDependencies": {
