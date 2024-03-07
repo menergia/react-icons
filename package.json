@@ -1,0 +1,21 @@
+{
+  "name": "menergia-react-icons",
+  "description": "Menergia React Icon repository",
+  "version": "0.0.0",
+  "private": true,
+  "author": "r-kobayashi@menergia.co.jp",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": "20.11.1",
+    "pnpm": "8.15.4"
+  },
+  "packageManager": "pnpm@8.15.4",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/menergia/react-icons.git"
+  },
+  "scripts": {},
+  "devDependencies": {
+    "prettier": "3.2.5"
+  }
+}

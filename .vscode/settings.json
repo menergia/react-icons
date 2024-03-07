@@ -1,0 +1,9 @@
+{
+  "cSpell.words": ["menergia"],
+  "npm.packageManager": "pnpm",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "eslint.workingDirectories": ["./packages/react-icons"],
+  "eslint.experimental.useFlatConfig": true
+}

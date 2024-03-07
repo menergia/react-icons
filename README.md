@@ -1,1 +1,1 @@
-# Menergia React Icon library
+# Menergia React Icon Library
