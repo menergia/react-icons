@@ -14,12 +14,12 @@
     "type": "git",
     "url": "https://github.com/menergia/react-icons.git"
   },
-  "scripts": {},
-  "devDependencies": {
-    "prettier": "3.2.5"
+  "scripts": {
+    "ci:publish": "changeset publish"
   },
-  "dependencies": {
+  "devDependencies": {
     "@changesets/changelog-github": "0.4.8",
-    "@changesets/cli": "2.27.1"
+    "@changesets/cli": "2.27.1",
+    "prettier": "3.2.5"
   }
 }
