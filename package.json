@@ -17,5 +17,8 @@
   "scripts": {},
   "devDependencies": {
     "prettier": "3.2.5"
+  },
+  "dependencies": {
+    "@changesets/cli": "2.27.1"
   }
 }
