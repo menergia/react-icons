@@ -1,7 +1,7 @@
 {
   "name": "@menergia/react-icons",
   "description": "Menergia React Icon Library",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "author": "r-kobayashi@menergia.co.jp",
   "license": "UNLICENSED",
   "main": "dist/index.js",
