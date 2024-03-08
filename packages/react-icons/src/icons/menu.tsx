@@ -7,31 +7,38 @@ export const Menu = React.forwardRef<
   return (
     <svg
       ref={ref}
-      width="22"
-      height="17"
-      viewBox="0 0 22 17"
+      width="24"
+      height="24"
+      viewBox="0 0 24 24"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
       {...props}
     >
-      <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
-        d="M0 1.26923C0 0.568254 0.568254 0 1.26923 0H20.7308C21.4317 0 22 0.568254 22 1.26923C22 1.97021 21.4317 2.53846 20.7308 2.53846H1.26923C0.568254 2.53846 0 1.97021 0 1.26923Z"
-        fill="currentColor"
-      />
-      <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
-        d="M0 8.03876C0 7.33779 0.568254 6.76953 1.26923 6.76953H20.7308C21.4317 6.76953 22 7.33779 22 8.03876C22 8.73974 21.4317 9.30799 20.7308 9.30799H1.26923C0.568254 9.30799 0 8.73974 0 8.03876Z"
-        fill="currentColor"
-      />
-      <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
-        d="M0 14.8083C0 14.1073 0.568254 13.5391 1.26923 13.5391H20.7308C21.4317 13.5391 22 14.1073 22 14.8083C22 15.5093 21.4317 16.0775 20.7308 16.0775H1.26923C0.568254 16.0775 0 15.5093 0 14.8083Z"
-        fill="currentColor"
-      />
+      <g clipPath="url(#clip0_1108_50461)">
+        <path
+          fillRule="evenodd"
+          clipRule="evenodd"
+          d="M1 5.26923C1 4.56825 1.56825 4 2.26923 4H21.7308C22.4317 4 23 4.56825 23 5.26923C23 5.97021 22.4317 6.53846 21.7308 6.53846H2.26923C1.56825 6.53846 1 5.97021 1 5.26923Z"
+          fill="currentColor"
+        />
+        <path
+          fillRule="evenodd"
+          clipRule="evenodd"
+          d="M1 12.0388C1 11.3378 1.56825 10.7695 2.26923 10.7695H21.7308C22.4317 10.7695 23 11.3378 23 12.0388C23 12.7397 22.4317 13.308 21.7308 13.308H2.26923C1.56825 13.308 1 12.7397 1 12.0388Z"
+          fill="currentColor"
+        />
+        <path
+          fillRule="evenodd"
+          clipRule="evenodd"
+          d="M1 18.8083C1 18.1073 1.56825 17.5391 2.26923 17.5391H21.7308C22.4317 17.5391 23 18.1073 23 18.8083C23 19.5093 22.4317 20.0775 21.7308 20.0775H2.26923C1.56825 20.0775 1 19.5093 1 18.8083Z"
+          fill="currentColor"
+        />
+      </g>
+      <defs>
+        <clipPath id="clip0_1108_50461">
+          <rect width="24" height="24" fill="white" />
+        </clipPath>
+      </defs>
     </svg>
   );
 });
