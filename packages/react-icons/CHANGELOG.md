@@ -1,5 +1,11 @@
 # @menergia/react-icons
 
+## 1.0.0
+
+### Major Changes
+
+- [#5](https://github.com/menergia/react-icons/pull/5) [`b0d6afc4388ae17bcbb8ea644fe9679ce7fed3c1`](https://github.com/menergia/react-icons/commit/b0d6afc4388ae17bcbb8ea644fe9679ce7fed3c1) Thanks [@swallowtail62](https://github.com/swallowtail62)! - Prepare whole set of icons
+
 ## 0.0.2
 
 ### Patch Changes
