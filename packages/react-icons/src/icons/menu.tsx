@@ -14,7 +14,7 @@ export const Menu = React.forwardRef<
       xmlns="http://www.w3.org/2000/svg"
       {...props}
     >
-      <g clip-path="url(#clip0_1108_50461)">
+      <g clipPath="url(#clip0_1108_50461)">
         <path
           fillRule="evenodd"
           clipRule="evenodd"
