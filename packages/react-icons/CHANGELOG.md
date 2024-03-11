@@ -1,5 +1,11 @@
 # @menergia/react-icons
 
+## 1.1.0
+
+### Minor Changes
+
+- [#7](https://github.com/menergia/react-icons/pull/7) [`8488b182963b90d112702ccda438fef84e9d4537`](https://github.com/menergia/react-icons/commit/8488b182963b90d112702ccda438fef84e9d4537) Thanks [@hayate-adachi](https://github.com/hayate-adachi)! - remove stop icon
+
 ## 1.0.0
 
 ### Major Changes
