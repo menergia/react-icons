@@ -14,7 +14,6 @@ export * from './setting';
 export * from './search';
 export * from './send';
 export * from './start';
-export * from './stop';
 export * from './tune';
 export * from './filter';
 export * from './trash';
