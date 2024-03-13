@@ -52,6 +52,7 @@ export * from './person-check';
 export * from './person-add';
 export * from './person-manage';
 export * from './bell';
+export * from './map-pin';
 export * from './mail';
 export * from './attach';
 export * from './copy';
