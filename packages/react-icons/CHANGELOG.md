@@ -1,5 +1,11 @@
 # @menergia/react-icons
 
+## 1.2.0
+
+### Minor Changes
+
+- [#9](https://github.com/menergia/react-icons/pull/9) [`bf15cfc54c0c9f14b83c7784a5992cece22b0342`](https://github.com/menergia/react-icons/commit/bf15cfc54c0c9f14b83c7784a5992cece22b0342) Thanks [@hayate-adachi](https://github.com/hayate-adachi)! - add map-pin icon
+
 ## 1.1.0
 
 ### Minor Changes
