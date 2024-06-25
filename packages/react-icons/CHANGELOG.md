@@ -1,5 +1,11 @@
 # @menergia/react-icons
 
+## 1.3.0
+
+### Minor Changes
+
+- [#11](https://github.com/menergia/react-icons/pull/11) [`7bbf4df523b543ff00b963ff73ab86a5474f7e35`](https://github.com/menergia/react-icons/commit/7bbf4df523b543ff00b963ff73ab86a5474f7e35) Thanks [@koichi-uchimura](https://github.com/koichi-uchimura)! - add upload icon
+
 ## 1.2.0
 
 ### Minor Changes
