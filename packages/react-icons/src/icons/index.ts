@@ -3,6 +3,7 @@ export * from './remove-circle';
 export * from './check-circle';
 export * from './close';
 export * from './check';
+export * from './upload';
 export * from './download';
 export * from './edit';
 export * from './external';
