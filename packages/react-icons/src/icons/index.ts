@@ -59,6 +59,7 @@ export * from './attach';
 export * from './copy';
 export * from './description';
 export * from './feed';
+export * from './edit-document';
 export * from './credit';
 export * from './invoice';
 export * from './yen';
