@@ -1,5 +1,11 @@
 # @menergia/react-icons
 
+## 1.4.0
+
+### Minor Changes
+
+- [#13](https://github.com/menergia/react-icons/pull/13) [`fbe753870816eb4f41e665689f99bf95489774a3`](https://github.com/menergia/react-icons/commit/fbe753870816eb4f41e665689f99bf95489774a3) Thanks [@Akihiro0710](https://github.com/Akihiro0710)! - add edit document icon
+
 ## 1.3.0
 
 ### Minor Changes
